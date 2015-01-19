@@ -1,0 +1,4 @@
+[submodule "app/accounts"]
+	path = app/accounts
+	url = https://github.com/biznixcn/wn-account
+	branch = master
